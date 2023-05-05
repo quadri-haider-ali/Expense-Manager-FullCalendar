@@ -1,0 +1,28 @@
+.chart-bar{
+    width:10%;
+    flex:1;
+    margin:20px 0px;
+    /* border:1px red solid; */
+    text-align:center;
+    justify-content: center;
+}
+.main-bar{
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height:100px;
+    width:5px;
+    background-color: white;
+    border-radius: 2.5px;
+    /* border:1px blue solid; */
+}
+.bar-fill{
+    vertical-align: bottom;
+    background-color:aqua;
+    /* height:50%; */
+    border-radius:2.5px;    
+}
+.label{
+    /* border:1px white solid; */
+}
